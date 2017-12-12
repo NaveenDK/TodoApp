@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "sdkVersion": "23.0.0",
+    "name": "Your App Name",
+    "version": "1.0.0",
+    "slug": "your-app-slug",
+    "ios": {
+      "bundleIdentifier": "com.customapps.testwebview"
+    },
+    "android": {
+      "package": "com.customapps.testwebview"
+    }
+  }
+  
+}
